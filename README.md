@@ -1,7 +1,5 @@
 # CSCI 499 §002 12092 Fall 2016, The Capstone Course
-> Raffi Khatchadourian
-> August 2016
-
+Raffi Khatchadourian, August 2016
 
 ## Finding Me
 
